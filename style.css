@@ -33,7 +33,7 @@ body, html {
 }
 
 #sec-1{
-    background-image: url("background-image.png");
+    background-image: url("images/background-image.png");
     background-repeat: no-repeat;
     background-size: cover;
     font-family: "spicy Rice",sans-serif;
