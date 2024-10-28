@@ -54,13 +54,13 @@ const jumpHeight = -10;
 let score = 0;
 
 const bird = new Image();
-bird.src = "../website/tota.png "; // Replace with bird image path
+bird.src = "./tota.png "; // Replace with bird image path
 
 // Load pipe images once
 const pipeTop = new Image();
-pipeTop.src = "../website/toppipe.png";
+pipeTop.src = "./toppipe.png";
 const pipeBottom = new Image();
-pipeBottom.src = "../website/bottompipe.png";
+pipeBottom.src = "./bottompipe.png";
 
 const obstacles = [];
 const obstacleWidth = 60;
