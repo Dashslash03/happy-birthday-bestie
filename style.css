@@ -345,12 +345,12 @@ h3{
 }
 
 #sec-4{
-  background-image: url("sec-4 background.png");
+  background-image: url("/sec-4 background.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 #sec-3{
-  background-image: url("website/sec-3.png");
+  background-image: url("/sec-3.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
